@@ -9,7 +9,7 @@
         "subtypeName":"Social",
         "appProdName":"Roposo",
         "appProdOrigin":"India",
-        "appProdLogoUrl":"https://github.com/CyclomaticHoard/BeBhartiya/blob/master/logos/roposo.png",
+        "appProdLogoUrl":"/BeBhartiya/blob/master/logos/roposo.png",
         "appPackageName":"https://play.google.co/store/apps/details?id=com.roposo.android"
       },
       {
@@ -17,7 +17,7 @@
         "subtypeName":"Social",
         "appProdName":"Chingari",
         "appProdOrigin":"India",
-        "appProdLogoUrl":"https://github.com/CyclomaticHoard/BeBhartiya/blob/master/logos/chingari.jpg",
+        "appProdLogoUrl":"blob/master/logos/chingari.jpg",
         "appPackageName":"https://play.google.com/store/apps/details?id=io.chingari.app&hl=en_IN"
       },
       {
@@ -25,7 +25,7 @@
         "subtypeName":"Social",
         "appProdName":"Pixalive",
         "appProdOrigin":"India",
-        "appProdLogoUrl":"www.Pixalive",
+        "appProdLogoUrl":"/blob/master/logos/chingari.jpg",
         "appPackageName":"https://play.google.com/store/apps/details?id=com.pixalive&hl=en"
       },
       {
@@ -33,7 +33,7 @@
         "subtypeName":"Social",
         "appProdName":"Bolo Indya",
         "appProdOrigin":"India",
-        "appProdLogoUrl":"www.Bolo Indya",
+        "appProdLogoUrl":"logos/chingari.jpg",
         "appPackageName":"https://play.google.com/store/apps/details?id=com.boloindya.boloindya"
       },
       {

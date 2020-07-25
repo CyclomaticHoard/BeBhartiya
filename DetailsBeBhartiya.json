@@ -9,7 +9,7 @@
             "subtypeName":"Social",
             "appProdName":"Roposo",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/roposo.png",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/roposo.jpg",
             "appPackageName":"https://play.google.co/store/apps/details?id=com.roposo.android"
          },
          {
@@ -25,7 +25,7 @@
             "subtypeName":"Social",
             "appProdName":"Pixalive",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/pixalive.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/pixalive.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.pixalive&hl=en"
          },
          {
@@ -41,7 +41,7 @@
             "subtypeName":"Social",
             "appProdName":"ShareChat",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/sharechat.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/sharechat.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=in.mohalla.sharechat"
          },
          {
@@ -49,7 +49,7 @@
             "subtypeName":"Social",
             "appProdName":"Lasso",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/lasso.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/lasso.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.lassoworkforce.lassov4&hl=en_IN"
          },
          {
@@ -65,7 +65,7 @@
             "subtypeName":"Social",
             "appProdName":"Dubsmash",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/dubsmash.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/dubsmash.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.mobilemotion.dubsmash&hl=en_IN"
          },
          {
@@ -73,7 +73,7 @@
             "subtypeName":"Social",
             "appProdName":"Tik Tok",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/tiktok.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/tiktok.png",
             "appPackageName":""
          },
          {
@@ -97,7 +97,7 @@
             "subtypeName":"Social",
             "appProdName":"Vigo",
             "appProdOrigin":"Cina",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/vigo.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/vigo.png",
             "appPackageName":""
          },
          {
@@ -105,7 +105,7 @@
             "subtypeName":"Social",
             "appProdName":"VMate",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/vmate.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/vmate.png",
             "appPackageName":""
          },
          {
@@ -113,7 +113,7 @@
             "subtypeName":"Social",
             "appProdName":"Kwai",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/kwai.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/kwai.png",
             "appPackageName":""
          },
          {
@@ -121,7 +121,7 @@
             "subtypeName":"Chatting",
             "appProdName":"JioChat",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/jiochat.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/jiochat.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.jiochat.jiochatapp"
          },
          {
@@ -137,7 +137,7 @@
             "subtypeName":"Chatting",
             "appProdName":"ShareChat",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/sharechat.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/sharechat.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=in.mohalla.sharechat"
          },
          {
@@ -145,7 +145,7 @@
             "subtypeName":"Chatting",
             "appProdName":"Hike",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/hike.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/hike.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.hike.chat.stickers"
          },
          {
@@ -153,7 +153,7 @@
             "subtypeName":"Chatting",
             "appProdName":"WhatsApp",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/whatsapp.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/whatsapp.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.whatsapp&hl=en_IN"
          },
          {
@@ -169,7 +169,7 @@
             "subtypeName":"Chatting",
             "appProdName":"Telegram",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/telegram.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/telegram.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en_IN"
          },
          {
@@ -177,7 +177,7 @@
             "subtypeName":"Chatting",
             "appProdName":"QQInternational",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/qqinternational.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/qqinternational.png",
             "appPackageName":""
          },
          {
@@ -201,7 +201,7 @@
             "subtypeName":"Shopping",
             "appProdName":"Flipkart",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/flipkart.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/flipkart.jpeg",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en_IN"
          },
          {
@@ -217,7 +217,7 @@
             "subtypeName":"Shopping",
             "appProdName":"Paytm",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/paytm.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/paytm.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=net.one97.paytm"
          },
          {
@@ -225,7 +225,7 @@
             "subtypeName":"Shopping",
             "appProdName":"Myntra",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/myntra.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/myntra.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.myntra.android&hl=en_IN"
          },
          {
@@ -233,7 +233,7 @@
             "subtypeName":"Shopping",
             "appProdName":"IndiaMART",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/indiamart.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/indiamart.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.indiamart.m&hl=en_IN"
          },
          {
@@ -289,7 +289,7 @@
             "subtypeName":"Shopping",
             "appProdName":"Club Factory",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/clubfactory.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/clubfactory.png",
             "appPackageName":""
          },
          {
@@ -297,7 +297,7 @@
             "subtypeName":"Shopping",
             "appProdName":"Ali Express",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/aliexpress.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/aliexpress.png",
             "appPackageName":""
          },
          {
@@ -313,7 +313,7 @@
             "subtypeName":"Shopping",
             "appProdName":"Shein",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/shein.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/shein.png",
             "appPackageName":""
          },
          {
@@ -321,7 +321,7 @@
             "subtypeName":"Scanning",
             "appProdName":"Kaagaz",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/kaagaz.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/kaagaz.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=kaagaz.scanner.docs.pdf&hl=en_IN"
          },
          {
@@ -329,7 +329,7 @@
             "subtypeName":"Scanning",
             "appProdName":"Adobe Scan",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/adobescan.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/adobescan.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=en_IN"
          },
          {
@@ -337,7 +337,7 @@
             "subtypeName":"Scanning",
             "appProdName":"Microsoft Lens",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/microsoftoffice.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/microsoftlens.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=en_IN"
          },
          {
@@ -361,7 +361,7 @@
             "subtypeName":"Office",
             "appProdName":"Microsoft Office",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/microsoftoffice.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/microsoftoffice.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow"
          },
          {
@@ -393,7 +393,7 @@
             "subtypeName":"Office",
             "appProdName":"WPS Office",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/wpsoffice.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/wpsoffice.png",
             "appPackageName":""
          },
          {
@@ -409,7 +409,7 @@
             "subtypeName":"Music",
             "appProdName":"JioSaavn",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/jiosaavan.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/jiosaavan.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.jio.media.jiobeats"
          },
          {
@@ -425,7 +425,7 @@
             "subtypeName":"Music",
             "appProdName":"Spotify",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/spotify.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/spotify.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.spotify.music&hl=en_IN"
          },
          {
@@ -433,7 +433,7 @@
             "subtypeName":"Music",
             "appProdName":"QQMusic",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/qqmusic.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/qqmusic.png",
             "appPackageName":""
          },
          {
@@ -441,7 +441,7 @@
             "subtypeName":"Music",
             "appProdName":"Resso",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/resso.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/resso.png",
             "appPackageName":""
          },
          {
@@ -449,7 +449,7 @@
             "subtypeName":"Browsers",
             "appProdName":"JioBrowser",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/jiobrawser.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/jiobrawser.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.jio.web&hl=en_IN"
          },
          {
@@ -465,7 +465,7 @@
             "subtypeName":"Browsers",
             "appProdName":"Epic Browser",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/epicbrawser.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/epicprivacybrowser.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.epic.browser&hl=en_IN"
          },
          {
@@ -473,7 +473,7 @@
             "subtypeName":"Browsers",
             "appProdName":"Google Chrome",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/googlechrome.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/googlechrome.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_IN"
          },
          {
@@ -481,7 +481,7 @@
             "subtypeName":"Browsers",
             "appProdName":"Firefox",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/firefox.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/firefox.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_IN"
          },
          {
@@ -489,7 +489,7 @@
             "subtypeName":"Browsers",
             "appProdName":"Microsoft Edge",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/microsoftedge.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/microsoftedge.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.microsoft.emmx&hl=en_IN"
          },
          {
@@ -497,7 +497,7 @@
             "subtypeName":"Browsers",
             "appProdName":"UC Browser",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/ucbrowser.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/ucbrowser.png",
             "appPackageName":""
          },
          {
@@ -505,7 +505,7 @@
             "subtypeName":"Browsers",
             "appProdName":"APUS Browser",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/apusbrowser.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/apusbrowser.png",
             "appPackageName":""
          },
          {
@@ -513,7 +513,7 @@
             "subtypeName":"Games",
             "appProdName":"Ludo King",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/ludoking.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/ludoking.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.ludo.king&hl=en_IN"
          },
          {
@@ -537,7 +537,7 @@
             "subtypeName":"Games",
             "appProdName":"GUARDIANS OF THE SKIES",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/guardiansoftheskies.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/guardiansoftheskies.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.threye.iaf.gots&hl=en_IN"
          },
          {
@@ -553,7 +553,7 @@
             "subtypeName":"Games",
             "appProdName":"World Cricket Championship",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/workdcricketchampionship.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/workdcricketchampionship.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.nextwave.wcc2&hl=en_IN"
          },
          {
@@ -569,7 +569,7 @@
             "subtypeName":"Games",
             "appProdName":"Real Carrom",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/realcarrom.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/realcarrom.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.nextwave.realcarrom"
          },
          {
@@ -593,7 +593,7 @@
             "subtypeName":"Games",
             "appProdName":"Clash of Kings",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/clashofkings.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/clashofkings.png",
             "appPackageName":""
          },
          {
@@ -601,7 +601,7 @@
             "subtypeName":"Games",
             "appProdName":"Clash of clans",
             "appProdOrigin":"Cina",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/clashofclans.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/clashofclans.png",
             "appPackageName":""
          },
          {
@@ -609,7 +609,7 @@
             "subtypeName":"Games",
             "appProdName":"Call of Duty",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/callofduty.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/callofduty.png",
             "appPackageName":""
          },
          {
@@ -617,7 +617,7 @@
             "subtypeName":"Games",
             "appProdName":"Ludo",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/ludo.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/ludo.png",
             "appPackageName":""
          },
          {
@@ -625,7 +625,7 @@
             "subtypeName":"News",
             "appProdName":"Inshorts",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/inshorts.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/inshorts.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.nis.app"
          },
          {
@@ -641,7 +641,7 @@
             "subtypeName":"News",
             "appProdName":"UCNews",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/ucnews.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/ucnews.png",
             "appPackageName":""
          },
          {
@@ -649,7 +649,7 @@
             "subtypeName":"News",
             "appProdName":"NewsDog",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/newdog.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/newdog.png",
             "appPackageName":""
          },
          {
@@ -657,7 +657,7 @@
             "subtypeName":"Security",
             "appProdName":"JioSecurity",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/jiosecurity.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/jiosecurity.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.reliancejio.mobilesecurity&hl=en_IN"
          },
          {
@@ -673,7 +673,7 @@
             "subtypeName":"Security",
             "appProdName":"Avast Antivirus",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/avastantivirus.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/avastantivirus.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.avast.android.mobilesecurity&hl=en_IN"
          },
          {
@@ -681,7 +681,7 @@
             "subtypeName":"Security",
             "appProdName":"Norton Antivirus",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/nortonantivirus.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/nortonantivirus.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.symantec.mobilesecurity&hl=en_IN"
          },
          {
@@ -689,7 +689,7 @@
             "subtypeName":"Security",
             "appProdName":"Safe Security",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/safesecurity.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/safesecurity.png",
             "appPackageName":""
          },
          {
@@ -697,7 +697,7 @@
             "subtypeName":"Finance",
             "appProdName":"BHIM",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/bhim.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/bhim.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=in.org.npci.upiapp"
          },
          {
@@ -713,7 +713,7 @@
             "subtypeName":"Finance",
             "appProdName":"Paytm",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/paytm.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/paytm.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=net.one97.paytm"
          },
          {
@@ -721,7 +721,7 @@
             "subtypeName":"Finance",
             "appProdName":"PhonePe",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/phonepe.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/phonepe.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.phonepe.app"
          },
          {
@@ -729,7 +729,7 @@
             "subtypeName":"Finance",
             "appProdName":"Google Pay",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/googlepay.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/googlepay.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user"
          },
          {
@@ -737,7 +737,7 @@
             "subtypeName":"Finance",
             "appProdName":"WeChat Pay",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/wechat.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/wechatpay.png",
             "appPackageName":""
          },
          {
@@ -753,7 +753,7 @@
             "subtypeName":"Mail",
             "appProdName":"DataMail",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/datamail.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/datamail.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.datainfosys.datamail"
          },
          {
@@ -761,7 +761,7 @@
             "subtypeName":"Mail",
             "appProdName":"Outlook",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/outlook.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/outlook.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=en_IN"
          },
          {
@@ -769,7 +769,7 @@
             "subtypeName":"Mail",
             "appProdName":"Yahoo Mail",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/yahoomail.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/yahoomail.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.mail&hl=en_IN"
          },
          {
@@ -777,7 +777,7 @@
             "subtypeName":"Mail",
             "appProdName":"Gmail",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/gmail.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/gmail.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en_IN"
          },
          {
@@ -785,7 +785,7 @@
             "subtypeName":"Mail",
             "appProdName":"Mail Master",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/mailmaster.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/mailmaster.png",
             "appPackageName":""
          },
          {
@@ -793,7 +793,7 @@
             "subtypeName":"Mail",
             "appProdName":"QQMail",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/qqmail.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/qqmail.png",
             "appPackageName":""
          },
          {
@@ -809,7 +809,7 @@
             "subtypeName":"Utility",
             "appProdName":"Norton Clean",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/nortonclean.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/nortonclean.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.symantec.cleansweep&hl=en_IN"
          },
          {
@@ -817,7 +817,7 @@
             "subtypeName":"Utility",
             "appProdName":"Clone App",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/cloneapp.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/cloneapp.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.cloneapp.parallelspace.dualspace"
          },
          {
@@ -825,7 +825,7 @@
             "subtypeName":"Utility",
             "appProdName":"DO Multiple Accounts",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/domultipleaccounts.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/domultipleaccounts.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=do.multiple.cloner"
          },
          {
@@ -833,7 +833,7 @@
             "subtypeName":"Utility",
             "appProdName":"AppLock",
             "appProdOrigin":"Cina",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/applock.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/applock.png",
             "appPackageName":""
          },
          {
@@ -849,7 +849,7 @@
             "subtypeName":"Utility",
             "appProdName":"Parallel Space",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/parallelspace.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/parallelspace.png",
             "appPackageName":""
          },
          {
@@ -857,7 +857,7 @@
             "subtypeName":"Video Calling",
             "appProdName":"SAY NAMASTE",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/inscripts.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/saynamaste.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.inscripts.namaste"
          },
          {
@@ -865,7 +865,7 @@
             "subtypeName":"Video Calling",
             "appProdName":"Google Duo",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/googleduo.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/googleduo.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon&hl=en_IN"
          },
          {
@@ -881,7 +881,7 @@
             "subtypeName":"Video Calling",
             "appProdName":"Messenger",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/messenger.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/messenger.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en_IN"
          },
          {
@@ -897,7 +897,7 @@
             "subtypeName":"Video Calling",
             "appProdName":"QQ International",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/qqinternational.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/qqinternational.png",
             "appPackageName":""
          },
          {
@@ -905,7 +905,7 @@
             "subtypeName":"File Sharing",
             "appProdName":"JioSwitch",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/jioswitch.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/jioswitch.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.reliance.jio.jioswitch&hl=en_IN"
          },
          {
@@ -913,7 +913,7 @@
             "subtypeName":"File Sharing",
             "appProdName":"Files by Google",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/filesbygoogle.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/filesbygoogle.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files&hl=en_IN"
          },
          {
@@ -921,7 +921,7 @@
             "subtypeName":"File Sharing",
             "appProdName":"SHAREit",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/shareit.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/shareit.png",
             "appPackageName":""
          },
          {
@@ -929,7 +929,7 @@
             "subtypeName":"File Sharing",
             "appProdName":"Xender",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/xender.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/xender.png",
             "appPackageName":""
          },
          {
@@ -945,7 +945,7 @@
             "subtypeName":"Video Editing",
             "appProdName":"Quik",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/quik.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/quik.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.stupeflix.replay&hl=en_IN"
          },
          {
@@ -961,7 +961,7 @@
             "subtypeName":"Photo Editing",
             "appProdName":"Indian Selfie Camera",
             "appProdOrigin":"India",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/indianselfiecamera.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/indianselfiecamera.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.appbreakers.selfiecamera&hl=en_IN"
          },
          {
@@ -969,7 +969,7 @@
             "subtypeName":"Photo Editing",
             "appProdName":"Snapseed",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/snapseed.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/snapseed.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_IN"
          },
          {
@@ -977,7 +977,7 @@
             "subtypeName":"Photo Editing",
             "appProdName":"Prisma Photo Editor",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/prismaphotoeditor.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/prismaphotoeditor.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.neuralprisma&hl=en_IN"
          },
          {
@@ -985,7 +985,7 @@
             "subtypeName":"Photo Editing",
             "appProdName":"PicsArt",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/picsart.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/picsart.jpeg",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.picsart.studio&hl=en_IN"
          },
          {
@@ -993,7 +993,7 @@
             "subtypeName":"Photo Editing",
             "appProdName":"Adobe Photoshop Express",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/photoshop.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/photoshop.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en_IN"
          },
          {
@@ -1001,7 +1001,7 @@
             "subtypeName":"Photo Editing",
             "appProdName":"Beauty Plus",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/beautyplus.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/beautyplus.png",
             "appPackageName":""
          },
          {
@@ -1009,7 +1009,7 @@
             "subtypeName":"Mobiles",
             "appProdName":"Micromax",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/micromax.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/micromax.png",
             "appPackageName":""
          },
          {
@@ -1025,7 +1025,7 @@
             "subtypeName":"Mobiles",
             "appProdName":"LAVA",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/lava.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/lava.png",
             "appPackageName":""
          },
          {
@@ -1033,7 +1033,7 @@
             "subtypeName":"Mobiles",
             "appProdName":"Karbonn",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/karbonn.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/karbonn.png",
             "appPackageName":""
          },
          {
@@ -1041,7 +1041,7 @@
             "subtypeName":"Mobiles",
             "appProdName":"Apple",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/apple.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/apple.png",
             "appPackageName":""
          },
          {
@@ -1073,7 +1073,7 @@
             "subtypeName":"Mobiles",
             "appProdName":"Samsung",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/samsung.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/samsung.png",
             "appPackageName":""
          },
          {
@@ -1089,7 +1089,7 @@
             "subtypeName":"Mobiles",
             "appProdName":"Xiaomi",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/xiaomi.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/xiaomi.png",
             "appPackageName":""
          },
          {
@@ -1097,7 +1097,7 @@
             "subtypeName":"Mobiles",
             "appProdName":"OnePlus",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/oneplus.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/oneplus.png",
             "appPackageName":""
          },
          {
@@ -1105,7 +1105,7 @@
             "subtypeName":"Mobiles",
             "appProdName":"Oppo",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/oppo.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/oppo.png",
             "appPackageName":""
          },
          {
@@ -1113,7 +1113,7 @@
             "subtypeName":"Mobiles",
             "appProdName":"Motorola",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/motorola.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/motorola.png",
             "appPackageName":""
          },
          {
@@ -1121,7 +1121,7 @@
             "subtypeName":"Mobiles",
             "appProdName":"Vivo",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/vivo.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/vivo.png",
             "appPackageName":""
          },
          {
@@ -1137,7 +1137,7 @@
             "subtypeName":"Mobiles",
             "appProdName":"Huawei",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/huawei.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/huawei.svg",
             "appPackageName":""
          },
          {
@@ -1145,7 +1145,7 @@
             "subtypeName":"Laptops",
             "appProdName":"Micromax",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/micromax.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/micromax.png",
             "appPackageName":""
          },
          {
@@ -1153,7 +1153,7 @@
             "subtypeName":"Laptops",
             "appProdName":"iBall",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/iball.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/iball.png",
             "appPackageName":""
          },
          {
@@ -1161,7 +1161,7 @@
             "subtypeName":"Laptops",
             "appProdName":"Acer",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/acer.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/acer.png",
             "appPackageName":""
          },
          {
@@ -1177,7 +1177,7 @@
             "subtypeName":"Laptops",
             "appProdName":"Apple",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/apple.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/apple.png",
             "appPackageName":""
          },
          {
@@ -1193,7 +1193,7 @@
             "subtypeName":"Laptops",
             "appProdName":"Dell",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/dell.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/dell.png",
             "appPackageName":""
          },
          {
@@ -1201,7 +1201,7 @@
             "subtypeName":"Laptops",
             "appProdName":"HP",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/hp.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/hp.png",
             "appPackageName":""
          },
          {
@@ -1209,7 +1209,7 @@
             "subtypeName":"Laptops",
             "appProdName":"Xiaomi",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/xiaomi.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/xiaomi.png",
             "appPackageName":""
          },
          {
@@ -1225,7 +1225,7 @@
             "subtypeName":"Laptops",
             "appProdName":"Huawei",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/huawei.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/huawei.svg",
             "appPackageName":""
          },
          {
@@ -1233,7 +1233,7 @@
             "subtypeName":"TV",
             "appProdName":"Micromax",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/micromax.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/micromax.png",
             "appPackageName":""
          },
          {
@@ -1281,7 +1281,7 @@
             "subtypeName":"TV",
             "appProdName":"Samsung",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/samsung.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/samsung.png",
             "appPackageName":""
          },
          {
@@ -1289,7 +1289,7 @@
             "subtypeName":"TV",
             "appProdName":"Xiaomi",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/xiaomi.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/xiaomi.png",
             "appPackageName":""
          },
          {
@@ -1297,7 +1297,7 @@
             "subtypeName":"TV",
             "appProdName":"Oneplus",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/oneplus.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/oneplus.png",
             "appPackageName":""
          },
          {
@@ -1305,7 +1305,7 @@
             "subtypeName":"TV",
             "appProdName":"Huawei",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/huawei.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/huawei.svg",
             "appPackageName":""
          },
          {
@@ -1321,7 +1321,7 @@
             "subtypeName":"Audio",
             "appProdName":"iBall",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/iball.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/iball.png",
             "appPackageName":""
          },
          {
@@ -1353,7 +1353,7 @@
             "subtypeName":"Audio",
             "appProdName":"JBL",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/jbl.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/jbl.png",
             "appPackageName":""
          },
          {
@@ -1385,7 +1385,7 @@
             "subtypeName":"Audio",
             "appProdName":"Oppo",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/oppo.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/oppo.png",
             "appPackageName":""
          },
          {
@@ -1401,7 +1401,7 @@
             "subtypeName":"Audio",
             "appProdName":"Huawei",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/huawei.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/huawei.svg",
             "appPackageName":""
          },
          {
@@ -1409,7 +1409,7 @@
             "subtypeName":"Cameras",
             "appProdName":"Nikon",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/nikon.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/nikon.png",
             "appPackageName":""
          },
          {
@@ -1425,7 +1425,7 @@
             "subtypeName":"Cameras",
             "appProdName":"Fujifilm",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/fujifilm.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/fujifilm.png",
             "appPackageName":""
          },
          {
@@ -1441,7 +1441,7 @@
             "subtypeName":"Cameras",
             "appProdName":"GoPro",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/gopro.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/gopro.png",
             "appPackageName":""
          },
          {
@@ -1513,7 +1513,7 @@
             "subtypeName":"Power Bank",
             "appProdName":"Samsung",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/samsung.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/samsung.png",
             "appPackageName":""
          },
          {
@@ -1521,7 +1521,7 @@
             "subtypeName":"Power Bank",
             "appProdName":"Xiaomi",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/xiaomi.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/xiaomi.png",
             "appPackageName":""
          },
          {
@@ -1529,7 +1529,7 @@
             "subtypeName":"Power Bank",
             "appProdName":"Oneplus",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/oneplus.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/oneplus.png",
             "appPackageName":""
          },
          {
@@ -1537,7 +1537,7 @@
             "subtypeName":"Power Bank",
             "appProdName":"OPPO",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/oppo.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/oppo.png",
             "appPackageName":""
          },
          {
@@ -1545,7 +1545,7 @@
             "subtypeName":"Power Bank",
             "appProdName":"Huawei",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/huawei.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/huawei.svg",
             "appPackageName":""
          },
          {
@@ -1553,7 +1553,7 @@
             "subtypeName":"Power Bank",
             "appProdName":"Vivo",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/vivo.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/vivo.png",
             "appPackageName":""
          },
          {
@@ -1577,7 +1577,7 @@
             "subtypeName":"Smart Watch",
             "appProdName":"Apple",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/apple.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/apple.png",
             "appPackageName":""
          },
          {
@@ -1585,7 +1585,7 @@
             "subtypeName":"Smart Watch",
             "appProdName":"Samsung",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/samsung.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/samsung.png",
             "appPackageName":""
          },
          {
@@ -1601,7 +1601,7 @@
             "subtypeName":"Smart Watch",
             "appProdName":"Xiaomi",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/xiaomi.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/xiaomi.png",
             "appPackageName":""
          },
          {
@@ -1609,7 +1609,7 @@
             "subtypeName":"Smart Watch",
             "appProdName":"Huawei",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/huawei.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/huawei.svg",
             "appPackageName":""
          },
          {
@@ -1633,7 +1633,7 @@
             "subtypeName":"CCTV",
             "appProdName":"Godrej",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/godrej.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/godrej.png",
             "appPackageName":""
          },
          {
@@ -1641,7 +1641,7 @@
             "subtypeName":"CCTV",
             "appProdName":"Samsung",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/samsung.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/samsung.png",
             "appPackageName":""
          },
          {
@@ -1657,7 +1657,7 @@
             "subtypeName":"CCTV",
             "appProdName":"HikVision",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/hikvision.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/hikvision.png",
             "appPackageName":""
          },
          {
@@ -1673,7 +1673,7 @@
             "subtypeName":"Refrigerators",
             "appProdName":"Godrej",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/godrej.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/godrej.png",
             "appPackageName":""
          },
          {
@@ -1689,7 +1689,7 @@
             "subtypeName":"Refrigerators",
             "appProdName":"Mitashi",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/mitashi.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/mitashi.jpeg",
             "appPackageName":""
          },
          {
@@ -1697,7 +1697,7 @@
             "subtypeName":"Refrigerators",
             "appProdName":"Whirlpool",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/whirlpool.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/whirlpool.png",
             "appPackageName":""
          },
          {
@@ -1713,7 +1713,7 @@
             "subtypeName":"Refrigerators",
             "appProdName":"Samsung",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/samsung.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/samsung.png",
             "appPackageName":""
          },
          {
@@ -1737,7 +1737,7 @@
             "subtypeName":"Air Conditioners",
             "appProdName":"Godrej",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/godrej.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/godrej.png",
             "appPackageName":""
          },
          {
@@ -1761,7 +1761,7 @@
             "subtypeName":"Air Conditioners",
             "appProdName":"Blue Star",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/bluestar.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/bluestar.png",
             "appPackageName":""
          },
          {
@@ -1769,7 +1769,7 @@
             "subtypeName":"Air Conditioners",
             "appProdName":"Mitashi",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/mitashi.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/mitashi.jpeg",
             "appPackageName":""
          },
          {
@@ -1777,7 +1777,7 @@
             "subtypeName":"Air Conditioners",
             "appProdName":"Hitachi",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/hitachi.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/hitachi.png",
             "appPackageName":""
          },
          {
@@ -1801,7 +1801,7 @@
             "subtypeName":"Air Conditioners",
             "appProdName":"Daikin",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/daikin.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/daikin.png",
             "appPackageName":""
          },
          {
@@ -1833,7 +1833,7 @@
             "subtypeName":"Washing Machines",
             "appProdName":"Godrej",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/godrej.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/godrej.png",
             "appPackageName":""
          },
          {
@@ -1841,7 +1841,7 @@
             "subtypeName":"Washing Machines",
             "appProdName":"Mitashi",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/chingari.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/mitashi.jpeg",
             "appPackageName":""
          },
          {
@@ -1849,7 +1849,7 @@
             "subtypeName":"Washing Machines",
             "appProdName":"Whirlpool",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/chingari.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/whirlpool.png",
             "appPackageName":""
          },
          {
@@ -1857,7 +1857,7 @@
             "subtypeName":"Washing Machines",
             "appProdName":"Bosch",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/chingari.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/bosch.jpg",
             "appPackageName":""
          },
          {
@@ -1865,7 +1865,7 @@
             "subtypeName":"Washing Machines",
             "appProdName":"Samsung",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/chingari.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/samsung.png",
             "appPackageName":""
          },
          {
@@ -1873,7 +1873,7 @@
             "subtypeName":"Washing Machines",
             "appProdName":"LG",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/chingari.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/lg.jpg",
             "appPackageName":""
          },
          {
@@ -1881,7 +1881,7 @@
             "subtypeName":"Washing Machines",
             "appProdName":"Haier",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/chingari.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/haier.jpg",
             "appPackageName":""
          },
          {
@@ -1889,7 +1889,7 @@
             "subtypeName":"Washing Machines",
             "appProdName":"TCL",
             "appProdOrigin":"China",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/chingari.jpg",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/tcl.jpg",
             "appPackageName":""
          }
       ]

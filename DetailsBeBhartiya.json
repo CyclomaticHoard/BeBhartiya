@@ -9,7 +9,7 @@
         "subtypeName":"Social",
         "appProdName":"Roposo",
         "appProdOrigin":"India",
-        "appProdLogoUrl":"/BeBhartiya/blob/master/logos/roposo.png",
+        "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/chingari.jpg",
         "appPackageName":"https://play.google.co/store/apps/details?id=com.roposo.android"
       },
       {
@@ -17,7 +17,7 @@
         "subtypeName":"Social",
         "appProdName":"Chingari",
         "appProdOrigin":"India",
-        "appProdLogoUrl":"blob/master/logos/chingari.jpg",
+        "appProdLogoUrl":"BeBhartiya/logos/chingari.jpg",
         "appPackageName":"https://play.google.com/store/apps/details?id=io.chingari.app&hl=en_IN"
       },
       {
@@ -25,7 +25,7 @@
         "subtypeName":"Social",
         "appProdName":"Pixalive",
         "appProdOrigin":"India",
-        "appProdLogoUrl":"/blob/master/logos/chingari.jpg",
+        "appProdLogoUrl":"BeBhartiya/logos/chingari.jpg",
         "appPackageName":"https://play.google.com/store/apps/details?id=com.pixalive&hl=en"
       },
       {

@@ -57,7 +57,7 @@
             "subtypeName":"Social",
             "appProdName":"Firework",
             "appProdOrigin":"",
-            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/fireworks.png",
+            "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/firework.png",
             "appPackageName":"https://play.google.com/store/apps/details?id=com.loopnow.kamino&hl=en_IN"
          },
          {
@@ -1367,7 +1367,7 @@
          {
             "typeName":"Product",
             "subtypeName":"Audio",
-            "appProdName":"Bose",
+            "appProdName":"Bosch",
             "appProdOrigin":"",
             "appProdLogoUrl":"https://cyclomatichoard.github.io/BeBhartiya/logos/bose.png",
             "appPackageName":""
